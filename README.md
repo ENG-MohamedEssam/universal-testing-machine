@@ -3,7 +3,7 @@
 ## **Abstract**
 ### This projet at first was about Reverse-Engineering a Stress/Strain analysis machine, then fix it and Automate it's process.
 ### The following is an image of the machine 
-![Machine]()
+![Machine](https://github.com/ENG-MohamedEssam/universal-testing-machine/blob/main/images/machine.jpeg)
 
 ### Every part of the machine was Reverse-Engineered from the boards to the hydraulics to the classic control.
 ### The following is a picture of the Reverse-Engineered boards
@@ -13,7 +13,7 @@
 ### Due to financial and permits issues the project was turned to be a prototype working with Embedded Systems.
 
 ### The following is an image of the Prototype
-![prototype]()
+![prototype](https://github.com/ENG-MohamedEssam/universal-testing-machine/blob/main/images/prototype.jpg)
 
 ### The boards were desiged as follows, one board for the control, the second as a relay module. 
 
@@ -31,9 +31,9 @@
 ### the only two variables in these equations are the Force and the change in the length 
 
 ### The following is images of the boards and panel.
-![board]()
-![relay]()
-![panel]()
+![board](https://github.com/ENG-MohamedEssam/universal-testing-machine/blob/main/images/stm.png)
+![relay](https://github.com/ENG-MohamedEssam/universal-testing-machine/blob/main/images/relay.png)
+![panel](https://github.com/ENG-MohamedEssam/universal-testing-machine/blob/main/images/panel.jpeg)
 
 ### The following link has an explanation of the Embedded systems part explained by me 
 ### [Explanation](https://drive.google.com/file/d/1bGaOVOjb-tQGSpPLI7ITkfYBf-VQDN8E/view)
