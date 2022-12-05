@@ -7,7 +7,7 @@
 
 ### Every part of the machine was Reverse-Engineered from the boards to the hydraulics to the classic control.
 ### The following is an image of one of the Reverse-Engineered boards which was mine to Reverese-Engineer.
-![Boards]()
+![Board](https://github.com/ENG-MohamedEssam/universal-testing-machine/blob/main/images/mv.png)
 ### I reverse Engineered The MV3058
 
 ### Due to financial and permits issues the project was turned to be a prototype working with Embedded Systems.
@@ -36,11 +36,11 @@
 ![relay](https://github.com/ENG-MohamedEssam/universal-testing-machine/blob/main/images/relay.png)
 ![panel](https://github.com/ENG-MohamedEssam/universal-testing-machine/blob/main/images/panel.jpeg)
 
-### The follwing is Single Line Diagram that was made by me 
+### The follwing is Single Line Diagram that was made by me , it'll give you a good overview of all the Hardware connections in the panel
 ![SID](https://github.com/ENG-MohamedEssam/universal-testing-machine/blob/main/images/sid.png)
 
 ### The following link has some small SolidWorks parts that i've made for the machine whether it was as a specimen or for the sensors housings 
-[parts](https://github.com/ENG-MohamedEssam/universal-testing-machine/tree/main/other-files/parts)
+### [parts](https://github.com/ENG-MohamedEssam/universal-testing-machine/tree/main/other-files/parts)
 
 ### The following link has an explanation of the Embedded systems part explained by me 
 ### [Explanation](https://drive.google.com/file/d/1bGaOVOjb-tQGSpPLI7ITkfYBf-VQDN8E/view)
