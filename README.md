@@ -6,9 +6,9 @@
 ![Machine](https://github.com/ENG-MohamedEssam/universal-testing-machine/blob/main/images/machine.jpeg)
 
 ### Every part of the machine was Reverse-Engineered from the boards to the hydraulics to the classic control.
-### The following is a picture of the Reverse-Engineered boards
+### The following is an image of one of the Reverse-Engineered boards which was mine to Reverese-Engineer.
 ![Boards]()
-### I reverse Engineered The MV3085
+### I reverse Engineered The MV3058
 
 ### Due to financial and permits issues the project was turned to be a prototype working with Embedded Systems.
 
@@ -27,13 +27,17 @@
 ### a gripper used to grab the specimen.
 ### As far as the Embedded systems part is concerend the machine had mainly 2 sensors ,
 ### The Load Cell that's used to measure the Force and the Linear potentiometer that's used to measer the delta L.
-### the prototype is based mainly on two equations, Stress equation and Straing equation. 
+### the prototype is based mainly on two equations, Stress equation and Strain equation.
+### σ = F/A   ,    ε = δ/L  
 ### the only two variables in these equations are the Force and the change in the length 
 
 ### The following is images of the boards and panel.
 ![board](https://github.com/ENG-MohamedEssam/universal-testing-machine/blob/main/images/stm.png)
 ![relay](https://github.com/ENG-MohamedEssam/universal-testing-machine/blob/main/images/relay.png)
 ![panel](https://github.com/ENG-MohamedEssam/universal-testing-machine/blob/main/images/panel.jpeg)
+
+### The follwing is Single Line Diagram that was made by me 
+![SID]()
 
 ### The following link has an explanation of the Embedded systems part explained by me 
 ### [Explanation](https://drive.google.com/file/d/1bGaOVOjb-tQGSpPLI7ITkfYBf-VQDN8E/view)
