@@ -37,7 +37,10 @@
 ![panel](https://github.com/ENG-MohamedEssam/universal-testing-machine/blob/main/images/panel.jpeg)
 
 ### The follwing is Single Line Diagram that was made by me 
-![SID]()
+![SID](https://github.com/ENG-MohamedEssam/universal-testing-machine/blob/main/images/sid.png)
+
+### The following link has some small SolidWorks parts that i've made for the machine whether it was as a specimen or for the sensors housings 
+[parts]()
 
 ### The following link has an explanation of the Embedded systems part explained by me 
 ### [Explanation](https://drive.google.com/file/d/1bGaOVOjb-tQGSpPLI7ITkfYBf-VQDN8E/view)

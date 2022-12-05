@@ -1,0 +1,14 @@
+<RCC version="1.0">
+    <qresource prefix="icons">
+        <file>icons/home.png</file>
+         <file>icons/motor.png</file>
+        <file>icons/curve.png</file>
+        <file>icons/arrow.png</file>
+        <file>icons/arrowon.png</file>
+        <file>icons/arrowoff.png</file>
+        <file>icons/down.png</file>
+        <file>icons/downon.png</file>
+        <file>icons/downoff.png</file>
+        <file>icons/speed.png</file>
+    </qresource>
+</RCC>
