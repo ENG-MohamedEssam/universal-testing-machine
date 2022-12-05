@@ -1,6 +1,6 @@
 # universal-testing-machine
 
-## Abstract
+## **Abstract**
 ### This projet at first was about Reverse-Engineering a Stress/Strain analysis machine, then fix it and Automate it's process.
 ### The following is an image of the machine 
 ![Machine]()
@@ -17,7 +17,8 @@
 
 ### The boards were desiged as follows, one board for the control, the second as a relay module. 
 
-## How the prototype works 
+## **How the prototype works?**
+ 
 ### The prototype mainly does exactly what the original machine does but on a smaller scale.
 ### we mainly put a specimen between the two grippers and the machine puts tension or compression on the specimen till it breaks 
 ### then it draws the Stress/Strain curves of the specimen's material.
@@ -33,3 +34,6 @@
 ![board]()
 ![relay]()
 ![panel]()
+
+### The following link has an explanation of the Embedded systems part explained by me 
+### [Explanation](https://drive.google.com/file/d/1bGaOVOjb-tQGSpPLI7ITkfYBf-VQDN8E/view)
